@@ -1,2 +1,3 @@
 # Weedformer
-Rethinking Spot Spraying Perception Frameworks: A Real-Time Segmentation Approach Integrating Crop Contours and a Weed Index
+Rethinking Spot Spraying Perception Frameworks: A Real-Time Segmentation Approach Integrating Crop Contours and a Weed Index.
+The relevant papers and code are currently being prepared for submission...
